@@ -1,0 +1,3 @@
+Deployment Link
+
+https://huggingface.co/spaces/evanderin/ARIA-Plant_Nutrition_Prediction_with_Supervised_Machine_Learning
