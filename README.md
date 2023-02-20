@@ -1,6 +1,6 @@
 # Plant Nutrition Prediction with Supervised Machine Learning
 
-Project ini memiliki tujuan untuk mmembuat model optimal untuk prediksi nutrisi dari tanaman dengan 8 Variabel yang tersedia beserta informasi mengenai lab tempat pengujian.
+Project ini memiliki tujuan untuk membuat model optimal untuk prediksi nutrisi dari tanaman dengan 8 Variabel yang tersedia beserta informasi mengenai lab tempat pengujian.
 
 # Penjelasan File pada Github
 
