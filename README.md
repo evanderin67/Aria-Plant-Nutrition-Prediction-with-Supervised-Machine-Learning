@@ -15,7 +15,7 @@ This repository consists of several files, namely :
 
 The flow of this *project*, first EDA (*Exploratory Data Analysis*) to find out the basic picture of the *dataset*. Second, *cleaning* and *preprocessing* of the *dataset*. From *preprocessing* I drop the *feature* `sample_type` because it does not affect the regression. Third, built and compare evaluation of 8 Model (Linear Regression, KNN, Bayesian Ridge, Support Vector Machine, Decision Tree, Random Forest, XGBoost & ADABoost) and choose Random Forest as Best Model, then improve this model using GridsearchCV. Result of the model shows MAE 0.05 on train-set and MAE 0.12 on test-set
 
-# Kesimpulan Project
+# Project Conclusion
   
 Strength
     
